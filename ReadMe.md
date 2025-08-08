@@ -10,6 +10,8 @@ Hi there!<br>🔭 I`m Veronika, a passionate Frontend Developer in the making,<b
 
 # 💻 My Projects:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**NNotes Taking & To-Do List Web App**
+Just HTML CSS JavaScript
 
-[![Review WebPage]](https://veronikashshsh.github.io/notes-todolist/todolist.html) 
+[![Review WebPage]](https://veronikashshsh.github.io/notes-todolist/todolist.html) |  
+[![Review Code]](https://github.com/veronikashshsh/notes-todolist) 
