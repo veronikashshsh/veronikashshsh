@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br>🔭 I`m Veronika, a passionate Frontend Developer in the making,<br>👯 Currently building projects with JavaScript/React + Tailwind CSS<br>🌱 Constantly learning new technologies<br>💬 I adore turning ideas into functional, user-friendly web experiences <br>and improving my skills through real-world projects<br><br>⚡ Always curious. Always coding
+Hi there!<br> - I`m Veronika, a passionate Frontend Developer in the making,<br> - Currently building projects with JavaScript/React + Tailwind CSS<br> - Constantly learning new technologies<br> - I adore turning ideas into functional, user-friendly web experiences <br>and improving my skills through real-world projects<br><br> - Always curious. Always coding
 
 
 ## 🌐 Socials:
