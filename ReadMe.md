@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hi there!<br> - I`m Veronika, a passionate Frontend Developer in the making,<br> - Currently building projects with JavaScript/React + Tailwind CSS<br> - Constantly learning new technologies<br> - I adore turning ideas into functional, user-friendly web experiences <br>and improving my skills through real-world projects<br><br> - Always curious. Always coding
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veronika-shevchuk-b798b5362) 
 
